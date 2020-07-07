@@ -18,3 +18,5 @@ Codes have been used to produce numerical results in the manuscript entitled "La
 NSF Grant DMS-1819052 
 
 ### Licence MIT
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3934284.svg)](https://doi.org/10.5281/zenodo.3934284)
+
