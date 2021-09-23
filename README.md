@@ -1,7 +1,7 @@
 # Subtraction_techniques
 
 In this repository you will find MATLAB codes that compute a modified representation of layer potentials to avoid the close evaluation problem.
-Codes have been used to produce numerical results in the manuscript entitled "Layer potential identities and subtraction techniques", Carvalho (2020).
+Codes have been used to produce numerical results in the manuscript entitled "Modified representations for the close evaluation problem", Carvalho (2021).
 
 * There are two folders: 2D for two dimensional problems, 3D for three dimensional problems
 * In 2D:

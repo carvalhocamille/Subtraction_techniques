@@ -17,7 +17,7 @@ function [ r, tangent, normal, Jacobian, kappa ] = BoundaryCurve( t )
 % r   = [ x1   x2   ];
 % rp1 = [ x1p1 x2p1 ];
 % rp2 = [ x1p2 x2p2 ];
-% 
+
 % a = 3;
 % b = 2;
 % 
@@ -25,10 +25,10 @@ function [ r, tangent, normal, Jacobian, kappa ] = BoundaryCurve( t )
 % rp1 = [ -a * sin(t)  b * cos(t) ];
 % rp2 = [ -a * cos(t) -b * sin(t) ];
 
-a = 0.4;
+a = 0.3; 
 w = 5;
 
-f   = 1.55 + a * cos( w * t );
+f   = 1 + a * cos( w * t );
 fp1 = - w * a * sin( w * t );
 fp2 = - w * w * a * cos( w * t );
 
